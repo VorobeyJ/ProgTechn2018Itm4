@@ -9,3 +9,13 @@
 [Софья О.](https://github.com/SofyaOjegova)
 
 [Кристина Х.](https://github.com/crystallixa)
+
+## Подгрупа №2 [Организация](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
+
+[Дмитрий Ю.](https://github.com/deadmoroz583/test)
+
+[Петя Ш.](https://github.com/earthman10/gamedev)
+
+[Александр К.](https://github.com/Lofetty/ProjectPublicRep)
+
+[Ульяна М.](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
