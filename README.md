@@ -27,3 +27,7 @@
 [Анна М.](https://github.com/MaximovaAnna/)
 
 [Мария М.](https://github.com/MaryaJonn)
+
+## Не у дел
+
+2 человека
