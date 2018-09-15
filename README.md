@@ -19,3 +19,11 @@
 [Александр К.](https://github.com/Lofetty/ProjectPublicRep)
 
 [Ульяна М.](https://github.com/SaPeUlDi/TestGameNazvanieVremennoe)
+
+## Подгруппа №3 [Организация](https://github.com/PavelKunof/sea-battle)
+ 
+[Павел К.](https://github.com/PavelKunof/)
+
+[Анна М.](https://github.com/MaximovaAnna/)
+
+[Мария М.](https://github.com/MaryaJonn)
